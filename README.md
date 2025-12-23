@@ -30,7 +30,7 @@ Desenvolvedor back-end com foco em Python, dedicado ao aprendizado contínuo e a
 
 ### Banco de Dados
 - SQL  
-- Vetorial Qdrant (estudando atualmente), um DataBase dedicado a I.A, projetadoespecificamente para armazenar, buscar e gerenciar embeddings 
+- Vetorial Qdrant (estudando atualmente), um DataBase dedicado a I.A, projetado especificamente para armazenar, buscar e gerenciar embeddings. 
 
 ### Frameworks e Ferramentas
 - Django  

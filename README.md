@@ -30,12 +30,15 @@ Desenvolvedor back-end com foco em Python, dedicado ao aprendizado contínuo e a
 
 ### Banco de Dados
 - SQL  
+- Vetorial Qdrant (estudando atualmente), um DataBase dedicado a I.A, projetadoespecificamente para armazenar, buscar e gerenciar embeddings 
 
 ### Frameworks e Ferramentas
 - Django  
 - Flask  
 - Git  
-- GitHub  
+- GitHub e GitHub Actions 
+- Docker
+  
 
 ### Conhecimentos Adicionais
 - Desenvolvimento e consumo de **APIs**
@@ -55,6 +58,10 @@ Os projetos abaixo foram desenvolvidos com foco em estudo, prática e evolução
 - **Meu Blog**  
   Repositório:  
   https://github.com/jefferson1707/meublog  
+
+- **Biblioteca de Jogos**
+  Repositorio:
+  https://github.com/jefferson1707/biblioteca-jogos
 
 ---
 
